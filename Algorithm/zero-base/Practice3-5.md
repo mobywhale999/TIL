@@ -9,7 +9,7 @@ height 배열의 각각의 원소는 아래 그림과 같이 각 벽에 대한 �
 이와 같이 높이 값들이 주어졌을 때,  
 벽 사이사이의 빈 공간에 담을 수 있는 물의 총량을 출력하세요.
 
-![img_1.png](../imgs/img_2.png)
+![](https://velog.velcdn.com/images/mobywhale/post/370bdaf4-67b7-497d-8775-0934d4562058/image.png)
 
 입출력 예시
 ---
